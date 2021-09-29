@@ -25,14 +25,6 @@
       "comment": "Do buy the hype."
     },
     {
-      "id": 4,
-      "name": "Gyukotsu Ramen",
-      "restaurant": "Za-Ya Ramen",
-      "image": "./assets/ramen/gyukotsu.jpg",
-      "rating": 8,
-      "comment": "Good to the last drop."
-    },
-    {
       "id": 5,
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
